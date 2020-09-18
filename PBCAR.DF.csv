@@ -1,0 +1,151 @@
+ID,age_group,drinks1,drinks2,cudit,gad
+1,teen,3,5,1,11
+2,teen,16,4,5,14
+3,teen,19,13,8,17
+4,teen,4,8,1,13
+5,teen,17,24,2,13
+6,teen,23,10,7,15
+7,teen,23,16,5,17
+8,teen,0,3,8,7
+9,teen,27,4,5,11
+10,teen,35,12,5,13
+11,teen,8,20,6,10
+12,teen,0,18,4,15
+13,teen,16,5,6,13
+14,teen,2,12,7,18
+15,teen,0,19,11,10
+16,teen,22,7,4,7
+17,teen,0,11,11,11
+18,teen,23,15,0,13
+19,teen,15,2,4,6
+20,teen,6,0,8,11
+21,teen,4,14,7,16
+22,teen,10,0,6,15
+23,teen,3,14,9,15
+24,teen,31,6,6,16
+25,teen,13,10,10,15
+26,teen,14,26,5,11
+27,teen,14,12,5,11
+28,teen,12,22,4,15
+29,teen,14,19,7,12
+30,teen,18,22,9,11
+31,teen,1,10,4,18
+32,teen,0,10,10,12
+33,teen,4,8,4,17
+34,teen,19,0,0,17
+35,teen,26,4,10,12
+36,teen,8,13,8,13
+37,teen,15,16,12,8
+38,teen,7,8,1,12
+39,teen,0,21,9,13
+40,teen,16,26,5,7
+41,teen,18,11,12,9
+42,teen,0,2,0,12
+43,teen,0,10,4,10
+44,teen,42,7,8,20
+45,teen,21,6,0,16
+46,teen,8,7,6,18
+47,teen,23,18,7,12
+48,teen,3,14,7,11
+49,teen,25,27,7,16
+50,teen,2,30,7,11
+51,young adult,0,17,9,8
+52,young adult,3,4,12,5
+53,young adult,8,0,13,9
+54,young adult,12,23,9,5
+55,young adult,18,9,9,6
+56,young adult,0,32,3,7
+57,young adult,0,0,11,9
+58,young adult,18,0,9,6
+59,young adult,4,10,7,6
+60,young adult,0,10,15,7
+61,young adult,6,6,4,7
+62,young adult,13,0,13,9
+63,young adult,10,4,12,10
+64,young adult,7,11,4,11
+65,young adult,0,14,12,7
+66,young adult,10,0,12,8
+67,young adult,10,23,13,11
+68,young adult,16,0,7,9
+69,young adult,0,1,13,8
+70,young adult,27,0,11,13
+71,young adult,35,1,9,5
+72,young adult,11,9,5,9
+73,young adult,7,9,14,7
+74,young adult,12,0,10,12
+75,young adult,14,0,10,9
+76,young adult,3,19,8,10
+77,young adult,10,0,10,6
+78,young adult,26,11,13,12
+79,young adult,19,13,8,6
+80,young adult,14,3,10,10
+81,young adult,5,8,11,11
+82,young adult,21,6,11,7
+83,young adult,9,17,10,7
+84,young adult,1,4,9,15
+85,young adult,9,0,12,8
+86,young adult,0,0,4,7
+87,young adult,13,24,8,10
+88,young adult,0,28,12,8
+89,young adult,0,0,9,8
+90,young adult,0,25,9,8
+91,young adult,18,26,11,1
+92,young adult,0,7,12,5
+93,young adult,9,0,11,9
+94,young adult,9,13,9,7
+95,young adult,0,1,10,6
+96,young adult,0,0,11,7
+97,young adult,2,7,4,10
+98,young adult,3,10,0,7
+99,young adult,5,0,14,12
+100,young adult,6,0,10,4
+101,adult,5,1,13,21
+102,adult,6,2,9,13
+103,adult,7,9,11,14
+104,adult,0,1,13,10
+105,adult,7,3,10,7
+106,adult,5,0,12,12
+107,adult,0,0,9,13
+108,adult,7,7,15,10
+109,adult,3,7,12,12
+110,adult,2,16,11,17
+111,adult,13,5,13,11
+112,adult,2,4,12,14
+113,adult,6,15,10,11
+114,adult,0,5,13,12
+115,adult,4,8,10,14
+116,adult,2,0,13,8
+117,adult,1,4,11,8
+118,adult,2,6,15,11
+119,adult,2,1,12,9
+120,adult,6,2,10,15
+121,adult,12,5,12,12
+122,adult,5,6,12,13
+123,adult,0,2,14,12
+124,adult,15,4,13,12
+125,adult,1,6,15,7
+126,adult,1,2,13,14
+127,adult,9,0,13,13
+128,adult,7,0,13,11
+129,adult,4,0,12,8
+130,adult,5,2,12,10
+131,adult,9,8,12,19
+132,adult,11,7,11,14
+133,adult,0,9,13,14
+134,adult,2,0,11,11
+135,adult,8,5,13,13
+136,adult,4,1,11,11
+137,adult,7,10,12,5
+138,adult,9,11,12,15
+139,adult,1,7,12,14
+140,adult,0,8,10,8
+141,adult,9,3,11,10
+142,adult,3,5,10,13
+143,adult,7,1,14,15
+144,adult,6,10,13,7
+145,adult,8,4,14,16
+146,adult,5,8,11,14
+147,adult,2,0,13,10
+148,adult,6,1,13,14
+149,adult,11,0,10,8
+150,adult,3,10,12,10
